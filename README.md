@@ -1,7 +1,7 @@
 ---
-icon: code-merge
+icon: person-to-door
 ---
 
-# Moodle Integrations
+# Moodle Guest Access
 
-<a href="https://setu-cap.gitbook.io/setu-cap-docs" class="button primary medium" data-icon="house-chimney-user">CAP Home</a>
+<a href="https://setu-cap.gitbook.io/setu-cap-docs/" class="button primary medium" data-icon="house-chimney-user">CAP Home</a>
