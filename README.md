@@ -1,36 +1,41 @@
 ---
 description: >-
-  Centre for Academic Practice @SETUIreland documentation repository to support
-  staff and students in their use of learning technologies.
-icon: square-info
-cover: .gitbook/assets/SETU Facebook Banner 1.png
-coverY: 0
-layout:
-  width: wide
-  cover:
-    visible: true
-    size: hero
-    mask: none
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
-  metadata:
-    visible: false
-  tags:
-    visible: true
-  actions:
-    visible: true
+  Welcome to Moodle Guides. Moodle is the Learning management System of choice
+  here at South East Technological University (SETU).
+icon: person-waving
 ---
 
-# Centre for Academic Practice
+# Welcome
 
-<p align="center">Browse the topics below or send an email to our <a href="mailto:moodle@setu.ie">Helpdesk</a> if you need assistance.</p>
+## Moodle Onboarding
 
-<table data-view="cards"><thead><tr><th>Title</th><th>Description</th><th data-hidden data-card-target data-type="content-ref">Target</th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Getting started with Moodle</td><td>Get help with how to use Moodle</td><td><a href="https://app.gitbook.com/o/ooHVpGP3bXie8xN8M3oo/s/ab1QfSTWU9CLCs2vFhli/">Moodle Guides</a></td><td data-object-fit="contain"><a href=".gitbook/assets/fluent--share-screen-start-20-regular.svg">fluent--share-screen-start-20-regular.svg</a></td></tr><tr><td>Moodle FAQs</td><td>General Moodle Q&#x26;A</td><td><a href="https://app.gitbook.com/o/ooHVpGP3bXie8xN8M3oo/s/stYRhQ3MEajj5juJYqFn/">Moodle FAQs new</a></td><td data-object-fit="contain"><a href=".gitbook/assets/fluent--chat-bubbles-question-24-regular.svg">fluent--chat-bubbles-question-24-regular.svg</a></td></tr><tr><td>VLE EcoSystem Updates</td><td>Updates to the VLE eco system</td><td><a href="https://app.gitbook.com/s/AwaCDGRTGk0aBTT6Rac4/">VLE Ecosystem Updates</a></td><td data-object-fit="contain"><a href=".gitbook/assets/material-symbols--update-rounded.svg">material-symbols--update-rounded.svg</a></td></tr><tr><td>Moodle Integrations</td><td>Integrations to the Moodle</td><td><a href="https://app.gitbook.com/s/hbFMjs4rg8xfMBv7yN8D/">Moodle Integrations</a></td><td data-object-fit="contain"><a href=".gitbook/assets/stash--integrations.svg">stash--integrations.svg</a></td></tr><tr><td>Moodle Guest Access</td><td>This is how we allow guest access to Moodle</td><td><a href="https://app.gitbook.com/o/ooHVpGP3bXie8xN8M3oo/s/HwR1vfHrBVNDwOAmaODa/">Moodle Guest Access</a></td><td data-object-fit="contain"><a href=".gitbook/assets/fluent--guest-add-20-regular.svg">fluent--guest-add-20-regular.svg</a></td></tr><tr><td>CAP Community of Practice</td><td>Join the community</td><td><a href="https://app.gitbook.com/o/ooHVpGP3bXie8xN8M3oo/s/4Qd4jG301OlzqrXPfKa9/">CAP Community of Practice</a></td><td data-object-fit="contain"><a href=".gitbook/assets/iconoir--community.svg">iconoir--community.svg</a></td></tr></tbody></table>
+<div align="left"><figure><img src=".gitbook/assets/Moodle-Logo-RGB.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+To log into Moodle, you will need an office SETU Office 365 account. All staff members are supplied with an Office 365 account from Computer Services. If you have not received your SETU Office 365 account, please contact [Computer Services](https://techcentral.setu.ie/)
+
+Moodle is a learning management system (LMS) here at SETU, and you access Moodle through a web browser; think of it as your “Module Hub” where you upload content, run activities (assignments, forums, quizzes), and track learners on the Module/s you teach.
+
+## Access
+
+To access Moodle, please visit [https://moodle.setu.ie/](https://moodle.setu.ie/)
+
+Log in via the Staff or Students Option
+
+<div align="left"><figure><img src=".gitbook/assets/Capture.PNG" alt="" width="156"><figcaption></figcaption></figure></div>
+
+You will be prompted to enter your SETU Office 365 account username
+
+_**staff.name@setu.ie**_ for staff members.
+
+_**12345678@setu.ie**_ for students - more information on the student accounts [here](https://techcentral.setu.ie/computer-services-waterford/student-support-and-services#student-accounts)
+
+## Module access
+
+All modules in Moodle will have the CRN (5-digit number) integrated into the title of the module, the full title will contain 3 parts
+
+1. The full title
+2. The CRN
+3. The academic year
+
+To request access to a Moodle module, email the Moodle Helpdesk with the module CRN and the access level you need: edit, non-edit, or view access.
+
