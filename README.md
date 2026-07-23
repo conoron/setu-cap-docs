@@ -1,10 +1,7 @@
 ---
-description: >-
-  The VLE Ecosystem is made up of the learning management systems plaus all the
-  integrations that are build into and around the .earning management systems.
-icon: bullhorn
+icon: code-merge
 ---
 
-# VLE Ecosystem Updates
+# Moodle Integrations
 
-<a href="https://setu-cap.gitbook.io/setu-cap-docs" class="button primary" data-icon="house-chimney-user">CAP Home</a>
+<a href="https://setu-cap.gitbook.io/setu-cap-docs" class="button primary medium" data-icon="house-chimney-user">CAP Home</a>
