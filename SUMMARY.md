@@ -1,3 +1,17 @@
 # Table of contents
 
-* [CAP Community of Practice](README.md)
+* [Moodle FAQs](README.md)
+  * [Passwords](moodle-faqs/passwords.md)
+  * [I cant see my Modules](moodle-faqs/i-cant-see-my-modules.md)
+  * [Enrolments Keys](moodle-faqs/enrolments-keys.md)
+  * [My Data](moodle-faqs/my-data.md)
+  * [Turnitin](moodle-faqs/turnitin.md)
+  * [Turnitin Similarity Report Score](moodle-faqs/turnitin-similarity-report-score.md)
+  * [Where do I log in to Moodle?](moodle-faqs/where-do-i-log-in-to-moodle.md)
+  * [Can I view my timetable on Moodle?](moodle-faqs/can-i-view-my-timetable-on-moodle.md)
+  * [Can I split a shared module in Moodle?](moodle-faqs/can-i-split-a-shared-module-in-moodle.md)
+  * [Can staff members Import content?](moodle-faqs/can-staff-members-import-content.md)
+  * [What are Information Areas in Moodle](moodle-faqs/what-are-information-areas-in-moodle.md)
+  * [What is a CRN?](moodle-faqs/what-is-a-crn.md)
+  * [I am new to Moodle. Where can I get training with Moodle?](moodle-faqs/i-am-new-to-moodle.-where-can-i-get-training-with-moodle.md)
+  * [How to staff members get access to Moodle Modules pages](moodle-faqs/how-to-staff-members-get-access-to-moodle-modules-pages.md)

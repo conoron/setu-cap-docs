@@ -1,21 +1,18 @@
 ---
-description: >-
-  The Centre for Academic Practice hosts a number community of practice events
-  during the academic year, this is an open space where colleagues can share
-  ideas, technologies, and teaching practices.
-icon: users
+description: You will find a lot of generic quations and answers on this page
+icon: messages-question
 ---
 
-# CAP Community of Practice
+# Moodle FAQs
 
 <a href="https://setu-cap.gitbook.io/setu-cap-docs" class="button primary" data-icon="house-chimney-user">CAP Home</a>
 
-> Community of Practices (CoP) are learning forums where members teach and learn from each other and, irrespective of their position, regard each other as fellow practitioners, teachers, colleagues and sources of knowledge. Members have a desire to learn from and contribute to the Community with their variety of experiences and develop and share training materials and resources for collective benefit. ([National Data Infrastructure](https://www.nationaldata.ie/Skills/CommunitiesofPractice/))
->
->
+Use the Table of Contents to the left to navigate through the options.
+
+<details>
+
+<summary></summary>
 
 
 
-Watch the latest Community of Practice Event
-
-{% embed url="https://setu-ie.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9936ab23-4347-4e04-b68d-b36100ddc0ed" %}
+</details>
