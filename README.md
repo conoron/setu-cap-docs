@@ -1,36 +1,27 @@
 ---
 description: >-
-  Centre for Academic Practice @SETUIreland documentation repository to support
-  staff and students in their use of learning technologies.
-icon: square-info
-cover: .gitbook/assets/SETU Facebook Banner 1.png
-coverY: 0
-layout:
-  width: wide
-  cover:
-    visible: true
-    size: hero
-    mask: none
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
-  metadata:
-    visible: false
-  tags:
-    visible: true
-  actions:
-    visible: true
+  The Centre for Academic Practice hosts a number community of practice events
+  during the academic year, this is an open space where colleagues can share
+  ideas, technologies, and teaching practices.
+icon: users
 ---
 
-# Centre for Academic Practice
+# CAP Community of Practice
 
-<p align="center">Browse the topics below or send an email to our <a href="mailto:moodle@setu.ie">Helpdesk</a> if you need assistance.</p>
+<a href="https://setu-cap.gitbook.io/setu-cap-docs" class="button primary" data-icon="house-chimney-user">CAP Home</a>
 
-<table data-view="cards"><thead><tr><th>Title</th><th>Description</th><th data-type="number"></th><th data-hidden data-card-target data-type="content-ref">Target</th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Getting started with Moodle</td><td>Get help with how to use Moodle</td><td>1</td><td><a href="https://app.gitbook.com/o/ooHVpGP3bXie8xN8M3oo/s/ab1QfSTWU9CLCs2vFhli/">Moodle Guides</a></td><td data-object-fit="contain"><a href=".gitbook/assets/fluent--share-screen-start-20-regular.svg">fluent--share-screen-start-20-regular.svg</a></td></tr><tr><td>Moodle FAQs</td><td>General Moodle Q&#x26;A</td><td>2</td><td><a href="https://app.gitbook.com/o/ooHVpGP3bXie8xN8M3oo/s/stYRhQ3MEajj5juJYqFn/">Moodle FAQs new</a></td><td data-object-fit="contain"><a href=".gitbook/assets/fluent--chat-bubbles-question-24-regular.svg">fluent--chat-bubbles-question-24-regular.svg</a></td></tr><tr><td>VLE EcoSystem Updates</td><td>Updates to the VLE eco system</td><td>3</td><td><a href="https://app.gitbook.com/s/AwaCDGRTGk0aBTT6Rac4/">VLE Ecosystem Updates</a></td><td data-object-fit="contain"><a href=".gitbook/assets/material-symbols--update-rounded.svg">material-symbols--update-rounded.svg</a></td></tr><tr><td>Moodle Integrations</td><td>Integrations to the Moodle</td><td>4</td><td><a href="https://app.gitbook.com/s/hbFMjs4rg8xfMBv7yN8D/">Moodle Integrations</a></td><td data-object-fit="contain"><a href=".gitbook/assets/stash--integrations.svg">stash--integrations.svg</a></td></tr><tr><td>Moodle Guest Access</td><td>This is how we allow guest access to Moodle</td><td>5</td><td><a href="https://app.gitbook.com/o/ooHVpGP3bXie8xN8M3oo/s/HwR1vfHrBVNDwOAmaODa/">Moodle Guest Access</a></td><td data-object-fit="contain"><a href=".gitbook/assets/fluent--guest-add-20-regular.svg">fluent--guest-add-20-regular.svg</a></td></tr><tr><td>CAP Community of Practice</td><td>Join the community</td><td>6</td><td><a href="https://app.gitbook.com/o/ooHVpGP3bXie8xN8M3oo/s/4Qd4jG301OlzqrXPfKa9/">CAP Community of Practice</a></td><td data-object-fit="contain"><a href=".gitbook/assets/iconoir--community.svg">iconoir--community.svg</a></td></tr></tbody></table>
+> Community of Practices (CoP) are learning forums where members teach and learn from each other and, irrespective of their position, regard each other as fellow practitioners, teachers, colleagues and sources of knowledge. Members have a desire to learn from and contribute to the Community with their variety of experiences and develop and share training materials and resources for collective benefit. ([National Data Infrastructure](https://www.nationaldata.ie/Skills/CommunitiesofPractice/))
+>
+>
+
+
+
+**Watch** the latest Community of Practice Event
+
+{% embed url="https://setu-ie.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9936ab23-4347-4e04-b68d-b36100ddc0ed" %}
+
+**Contact**
+
+We always welcome new and returning guest speakers to the Community of Practice. We would love to hear your story or about your use of technology as a part of your teaching and learning journey.
+
+Contact [**Neill Wylie**](https://www.setu.ie/staff/neill-wylie) for more information.&#x20;
